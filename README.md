@@ -29,4 +29,4 @@ You can use following helper classes for integrating any type of login process i
 [FbConnectHelper](https://github.com/DroidNinja/SocialLoginIntegrationAndroid/blob/master/app/src/main/java/com/binarywalllabs/socialintegration/helpers/FbConnectHelper.java)
 
 
-If there is some problem, feel free to contact me( droidninja15@gmail.com ).
+If there is some problem, feel free to contact me( darpan.neupane.c3@gmail.com ).
